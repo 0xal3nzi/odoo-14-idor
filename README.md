@@ -105,10 +105,8 @@ GET /web/image?model=res.users&field=image_128&id=8
 ---
 
 ## 📅 Disclosure Timeline
-- 2025-08-25: Vulnerability discovered on Odoo 14 demo.  
-- [Date]: Contacted Odoo Security Team.  
-- [Date]: No response received.  
-- [Date]: Requesting CVE from MITRE.  
+- 2025-06-25: Vulnerability discovered on Odoo 14 demo.  
+- 2025-08-25: Requesting CVE from MITRE.  
 
 ---
 
