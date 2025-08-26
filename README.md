@@ -111,4 +111,4 @@ GET /web/image?model=res.users&field=image_128&id=8
 ---
 
 ## 👤 Credits
-- Researcher: **Abdulaziz Alanazi - Resilience**
+- Researcher: **Abdulaziz Alanazi - Fahad Alamri - Resilience**
